@@ -42,4 +42,4 @@ This Respository hold the API part of the project.
 - 10-15 minute live demonstration of the web application (that leverages your custom ORM); demonstration will be performed using PostMan to query your API's endpoints
 
 ## ORM for Project 1
-https://github.com/JennicaLeClerc/Project1_ORM.git
+
